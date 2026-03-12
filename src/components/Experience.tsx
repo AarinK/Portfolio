@@ -8,7 +8,7 @@ export default function Experience() {
       period: 'Jan 2025 – Jun 2025',
       description: 'Building secure authentication systems for government scale',
       achievements: [
-        'Built centralized authentication service supporting JWT SSO and MFA handling 1000+ concurrent requests',
+        'Built centralized authentication service supporting JWT SSO and MFA handling 1000+ concurrent requests using Node.js and PostgresSQL',
         'Integrated OAuth2 login with LDAP directory authentication',
         'Designed 10+ REST APIs for login, token issuance, refresh, validation and RBAC',
         'Improved authentication reliability and reduced login failures by 30%',
