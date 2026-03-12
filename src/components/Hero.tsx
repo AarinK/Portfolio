@@ -74,7 +74,7 @@ export default function Hero() {
               </button>
 
               <a
-                href="/Aarin_Kachroo_Resume.pdf"
+                href={`${import.meta.env.BASE_URL}Aarin_Kachroo_Resume.pdf`}
                 download
                 className="px-6 py-3 border border-purple-500 rounded-lg font-semibold text-purple-400 hover:bg-purple-500/10 hover:shadow-lg hover:shadow-purple-500/30 transition-all duration-300 hover:scale-105 text-center"
               >
@@ -113,7 +113,7 @@ export default function Hero() {
 
               {/* Image */}
               <img
-                src="/1722513173005.jpg"
+                src={`${import.meta.env.BASE_URL}1722513173005.jpg`}
                 alt="Aarin Kachroo"
                 className="relative w-72 h-96 md:w-80 md:h-full object-cover rounded-2xl shadow-2xl border border-white/10 z-10"
               />
