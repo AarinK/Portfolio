@@ -46,7 +46,7 @@ export default function Hero() {
 
             {/* TECH STACK CHIPS */}
             <div className="flex flex-wrap gap-2 pt-2 z-10">
-              {["Node.js","Python","Django","React","PostgreSQL"].map((tech) => (
+              {["React","Node.js","Python","Django","PostgreSQL"].map((tech) => (
                 <span
                   key={tech}
                   className="px-4 py-2 text-sm rounded-full bg-[#0d0d0d] border border-gray-700 text-gray-300 hover:border-blue-400 hover:text-blue-400 hover:shadow-lg hover:shadow-blue-500/20 transition-all duration-300"
