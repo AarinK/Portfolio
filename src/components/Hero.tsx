@@ -25,22 +25,22 @@ export default function Hero() {
               </h1>
 
               <h2 className="text-xl md:text-2xl text-gray-300 font-semibold">
-                Backend-Focused Full-Stack Developer
+                Full-Stack Developer
               </h2>
 
               <p className="text-blue-400 text-sm md:text-base font-medium tracking-wide">
-                Authentication • API Security • Scalable Systems
+                Lightweight Apps • API Security • Scalable Systems
               </p>
             </div>
 
             <p className="text-gray-400 text-base md:text-lg leading-relaxed max-w-lg">
-              I build secure, scalable authentication systems and backend architecture.
+              I build secure, scalable  systems and backend architecture.
               My work across government and startup environments has shaped my approach
-              to API security, SSO integration, and robust system design.
+              to API security and robust system design.
             </p>
 
             <p className="text-gray-500 text-sm md:text-base leading-relaxed max-w-lg">
-              From designing REST APIs to implementing OAuth2 and RBAC systems,
+              From designing REST APIs to building Web Apps,
               I focus on solutions that are secure, performant, and maintainable.
             </p>
 
